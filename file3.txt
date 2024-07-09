@@ -1,0 +1,1 @@
+Tranedo desde el servidor usando git pull
